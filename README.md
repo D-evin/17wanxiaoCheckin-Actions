@@ -19,7 +19,7 @@
 之前的抓包部署教程请前往：[完美校园抓包打卡](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/README_LAST.md)
 
 
-
+      
 ## Q&A
 
 **1、fork之后，修改README.md并没有触发actions**？
@@ -54,7 +54,7 @@ on:
 
 **[5、校内打卡问题汇总请前往 wiki](https://github.com/ReaJason/17wanxiaoCheckin-Actions/wiki#%E6%A0%A1%E5%86%85%E6%89%93%E5%8D%A1%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB)**
 
-------
+-------  
 
 #### 一、功能介绍
 
@@ -123,7 +123,7 @@ on:
 
    
 
-6. 查看 `Actions` 运行情况，以及微信推送情况，至此每日六点多将会自行打卡
+6. 查看 `Actions` 运行情况，以及微信推送情况，至此每日六点多将会自行打卡 
 
    
 
